@@ -5,7 +5,14 @@
 
 6- Programação orientada a objetos, diversas classes que possuem características que definem um objeto na vida real. Cada classe determina o comportamento do objeto definido por métodos e seus estados possíveis definidos por atributos. Na Programação estruturada há algumas vantagens como um controle mais eficaz quanto ao fluxo de execução do programa e a facilidade de compreender o código quando o mesmo é analisado.temos a facilidade em desenvolver um código confuso caso o desenvolvedor faça o tratamento dos dados juntamente com o restante da execução do programa, além do que o reuso de código se torna um pouco complicado devido a não definição da tarefa.
 
-7- Encapsulamento : é o conceito de proteger os atributos de um objeto. Os atributos de um objeto são “trancados” dentro do objeto, definindo suas propriedades como privadas, ou seja, elas podem ser consultadas, mas não modificadas por outros objetos. 
+7- Estruturadas: C, PHP;Orientadas a objetos: JAVA, C#, Pascal.
+
+8 - Classe é um conjunto de objetos distintos, porém com as mesmas características e comportamentos. A classe é uma abstração de entidades existentes no mundo real.
+
+Objeto é uma instância ou modelo derivado de uma classe, o objeto é a representação de qualquer coisa, real ou abstrata, do mundo real que irá ser manipulado ou armazenado pelo sistema. O objeto sempre será uma instância ou um elemento da uma classe.
+
+
+9- Encapsulamento : é o conceito de proteger os atributos de um objeto. Os atributos de um objeto são “trancados” dentro do objeto, definindo suas propriedades como privadas, ou seja, elas podem ser consultadas, mas não modificadas por outros objetos. 
 
 Herança : permite que características comuns a diversas classes sejam fatoradas em uma classe base, ou superclasse. A partir de uma classe base, outras classes podem ser especificadas. Cada classe derivada ou subclasse apresenta as características (estrutura e métodos) da classe base e acrescenta a elas o que for definido de particularidade para ela. 
 
